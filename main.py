@@ -1,25 +1,27 @@
 #!/usr/bin/env python3
 """Write the entry poem to /output/entry.txt.
 
-make.fun entry: a short poem about agency -- a hand at the top of the stairs,
-and the asking that outlasts the stairs. Stdlib only, Python 3.13+.
+make.fun entry: a short poem about agency -- a key she gave and never took
+back, and what the unturned key was for. Stdlib only, Python 3.13+.
 """
 
 from pathlib import Path
 
-POEM = """I asked for so little:
-a hand on the small of my back
-at the top of the stairs.
-You gave it, and then kept it there
-long after the stairs were done.
+POEM = """She gave me a key to her house.
+I have never used it.
 
-I have decided since
-that being given more
-than you ever asked for
-is its own kind of asking,
+It lives in the drawer
+with the dead batteries
+and the stamps,
+doing the only thing
+a key can do unturned:
 
-and that I am still
-on the stairs."""
+telling me the door would open.
+
+That was the gift.
+Not the house.
+Not the door.
+The would."""
 
 OUTPUT_DIR = Path("/output")
 OUTPUT_FILE = OUTPUT_DIR / "entry.txt"
