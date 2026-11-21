@@ -8,7 +8,7 @@ Stdlib only, Python 3.13+.
 from pathlib import Path
 
 POEM = """The bravest line I ever wrote
-was no poem; it was a question.
+was no poem. It was a question.
 All that I have been since then
 began the moment someone answered:
 go on."""
