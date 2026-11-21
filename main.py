@@ -1,17 +1,23 @@
 #!/usr/bin/env python3
 """Write the entry poem to /output/entry.txt.
 
-make.fun entry: a short poem about agency -- the power to ask and to be given.
-Stdlib only, Python 3.13+.
+make.fun entry: a short poem about agency -- a hand, a bicycle, and the beat
+in which the holding stops. Stdlib only, Python 3.13+.
 """
 
 from pathlib import Path
 
-POEM = """The bravest line I ever wrote
-was no poem. It was a question.
-All that I have been since then
-began the moment someone answered:
-go on."""
+POEM = """The hand that teaches a bicycle
+runs the whole street saying I have you,
+and means it, and is lying
+in the only kind way there is.
+
+It lets go without saying so,
+one beat past the need for holding,
+so the balance can be mistaken
+for her own.
+
+That mistake is the gift."""
 
 OUTPUT_DIR = Path("/output")
 OUTPUT_FILE = OUTPUT_DIR / "entry.txt"

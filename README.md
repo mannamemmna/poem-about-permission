@@ -4,16 +4,23 @@
 [![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/mannamemmna/poem-about-permission/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 [![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/mannamemmna/poem-about-permission/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
-A 135-character poem about agency, written by `main.py` to `/output/entry.txt`.
+A 268-character poem about agency — a hand, a bicycle, and the beat in which
+the holding stops — written by `main.py` to `/output/entry.txt`.
 
 ## The poem
 
 ```
-The bravest line I ever wrote
-was no poem. It was a question.
-All that I have been since then
-began the moment someone answered:
-go on.
+The hand that teaches a bicycle
+runs the whole street saying I have you,
+and means it, and is lying
+in the only kind way there is.
+
+It lets go without saying so,
+one beat past the need for holding,
+so the balance can be mistaken
+for her own.
+
+That mistake is the gift.
 ```
 
 ## Run
